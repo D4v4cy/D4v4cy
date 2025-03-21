@@ -7,7 +7,7 @@
 </br> <br>
 🔍 To understand the unseen is to understand everything.
 </br> <br>
-🖤 I don't seek answers, I seek understanding.
+🔒 I don't seek answers, I seek understanding.
 </br>
 <br>
 The system whispers, but few listen.
