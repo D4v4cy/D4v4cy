@@ -1,17 +1,13 @@
 ## Hi there 👋 
-Flag:
+This is d4v4cy
 
-<!--
-**D4v4cy/D4v4cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Navigating places where few dare to look.
+🔒 Unseen paths, unnoticed gaps—always searching.
+🔍 To understand the unseen is to understand everything.
+🖤 I don't seek answers, I seek understanding.
 
-Here are some ideas to get you started:
+**The system whispers, but few listen.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Checkout my personal portfolio: https://d4v4cy.netlify.app/
+
+
