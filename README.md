@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-# This is d4v4cy
+<strong> This is d4v4cy </strong>
 
 <br>
 🔍 Navigating places where few dare to look.
@@ -15,5 +15,5 @@
 The system whispers, but few listen.
 </br>
 <br>
-Checkout my personal portfolio: https://d4v4cy.netlify.app/
+<strong> Checkout my personal portfolio: https://d4v4cy.netlify.app/ </strong>
 </br>
