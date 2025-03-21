@@ -11,7 +11,7 @@
 🖤 I don't seek answers, I seek understanding.
 </br>
 <br>
-**The system whispers, but few listen.**
+The system whispers, but few listen.
 </br>
 
 Checkout my personal portfolio: https://d4v4cy.netlify.app/
