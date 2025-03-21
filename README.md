@@ -15,5 +15,5 @@
 The system whispers, but few listen.
 </br>
 <br>
-<u> <strong> Checkout my personal portfolio: https://d4v4cy.netlify.app/ </strong> </u>
+<strong> Checkout my personal portfolio: https://d4v4cy.netlify.app/ </strong>
 </br>
