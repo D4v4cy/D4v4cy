@@ -2,9 +2,13 @@
 This is d4v4cy
 
 🔍 Navigating places where few dare to look.
+<br>
 🔒 Unseen paths, unnoticed gaps—always searching.
+</br> <br>
 🔍 To understand the unseen is to understand everything.
+</br> <br>
 🖤 I don't seek answers, I seek understanding.
+</br>
 
 **The system whispers, but few listen.**
 
